@@ -13,8 +13,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 12px 20px;
-    /* 12px pra cima e pra baixo e 20px pros lados */
+    padding: 0.265rem 1.25rem;
+    /* pra cima e pra baixo e pros lados */
 }
 
 .logo img {
@@ -29,7 +29,7 @@
 .nav-center a:hover,
 .nav-right a:hover {
     font-size: 1.25rem;
-    color: #7c3aed;
+    color: #333333;
 }
 
 .nav-right ul {
